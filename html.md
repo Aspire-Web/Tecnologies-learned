@@ -34,5 +34,5 @@ Enteties are used as a placeholder
 
 ## Other Technologies
 1. [git](git.md)
-2. css
-3. javascript
+2. [css](css.md)
+3. [javascript](Jacascript.md)
