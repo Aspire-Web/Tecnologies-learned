@@ -33,6 +33,6 @@ Enteties are used as a placeholder
 
 
 ## Other Technologies
-1. git
+1. [git](git.md)
 2. css
 3. javascript
