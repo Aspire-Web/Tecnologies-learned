@@ -1,4 +1,4 @@
-![GitHub Logo](git image.jpg)
+![GitHub Logo](gitimage.jpg)
 
 - P
 - h1
