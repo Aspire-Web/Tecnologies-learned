@@ -22,10 +22,10 @@ IT really helps to have some basic programming knowlege, too like:
 ## JavaScript Syntax
 
  1. All lines should end with a ; *perhaps* some don't need it, but you can never be sure
- 2. it works quite easy: select something and than tell what so do e.g. `document.getElementById("header").style.font-weight=""bold`
+ 2. it works quite easy: select something and than tell what so do e.g. `document.getElementById("header").style.font-weight="bold"`
  3. work with the console to have feedback what went wrong.
 
-Other Technologies
+## Other Technologies
 
 - [git](git.md)
 - [html](html.md)
