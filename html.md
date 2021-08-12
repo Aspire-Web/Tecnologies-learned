@@ -13,7 +13,7 @@ The markup is achieved through tags - they start with a lesser than and ends wit
 ## Other Tags
 
 | Tag|Meaning|
----
+| ---| ---| 
 | `<ul></ul>` |unordered List|
 | `<li></li>` |list item|
 |` <p></p>` |paragraph|
