@@ -1,3 +1,3 @@
 # List of Technologies
 
--[Git/GITHUB]() -[HTML] -[CSS3] -[JavaScript]
+-[Git/GITHUB](git.md) -[HTML] -[CSS3] -[JavaScript]
